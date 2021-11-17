@@ -1,2 +1,4 @@
 C:\Users\user\Desktop\DES\Debug\DES.exe
 C:\Users\user\Desktop\DES\Debug\DES.pdb
+C:\Users\user\Desktop\DataEncryptionStandard-DES\DES\Debug\DES.exe
+C:\Users\user\Desktop\DataEncryptionStandard-DES\DES\Debug\DES.pdb
