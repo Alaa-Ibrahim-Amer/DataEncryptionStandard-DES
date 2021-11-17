@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\DES\Source.cpp(35,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\DES\Source.cpp(78,19): warning C4018: '<': signed/unsigned mismatch
+  DES.vcxproj -> C:\Users\user\Desktop\DES\Debug\DES.exe

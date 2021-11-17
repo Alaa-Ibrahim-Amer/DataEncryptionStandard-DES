@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\DES\Debug\DES.exe
+C:\Users\user\Desktop\DES\Debug\DES.pdb
